@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "<a href='https://www.YouTube.com/CodingTutorials360'>Check Out My YouTube Channel </a>",
   "main": "index.js",
+  "author": "Haris Sucipto",
   "scripts": {
     "test": "jest --watch",
     "testFile": "jest -- --testNamePattern --watch"
@@ -11,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/PizzaPokerGuy/100AlgorithmsChallenge.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PizzaPokerGuy/100AlgorithmsChallenge/issues"
